@@ -306,7 +306,7 @@ header nav .form i {
 @media (min-width: 768px) {
   .services .services-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(335px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
     column-gap: 40px;
     row-gap: 60px;
   }
